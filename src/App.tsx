@@ -10,7 +10,7 @@ function App() {
     setHeroImage(image);
     setHeroIndex(index);
   };
-
+//file kombai
   return (
     <div className="relative min-h-screen bg-slate-600 overflow-hidden">
       <div className="fixed top-0 left-0 right-0 z-50 px-3 sm:px-4 md:px-6 pt-2 sm:pt-[10.8px]">
